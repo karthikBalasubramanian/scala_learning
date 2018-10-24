@@ -1,0 +1,39 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/scala_coursera_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	traits/Pet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/traits/Pet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/B.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/B.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/RichIterator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/RichIterator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/StringIterator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/StringIterator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/D.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/D.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/RichStringIter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/RichStringIter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/A.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/A.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	traits/Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/traits/Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	classes/Point_1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/classes/Point_1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/AbsIterator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/AbsIterator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	traits[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/traits[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mixins/C.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/mixins/C.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	traits/Cat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kbalasubramanian/Box Sync/Desktop/scala_coursera/target/scala-2.12/classes/traits/Cat.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
